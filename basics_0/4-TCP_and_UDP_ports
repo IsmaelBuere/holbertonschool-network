@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-netstat -tuln | awk
+netstat -tupn
